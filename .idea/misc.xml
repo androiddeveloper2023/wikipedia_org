@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/fragmentexplore.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/fragmentprofile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/fragmenttranslator.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/fragmenttrend.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/fragmentvideomaker.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/fragmentwriter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/header_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/itemrecycleretrend.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/layout/itemrecyclerexplore.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/menu/menu_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/menu/menu_off.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rezak/Desktop/MyWikyPedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
